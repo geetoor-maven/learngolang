@@ -13,7 +13,7 @@
 |---------|-----------------------------------------------------------------------------------------------------|
 | VARIABLE    | [VARIABLE ](https://github.com/geetoor-maven/learngolang/blob/main/1_variable/variable.go)    |
 | TIPE DATA | [TIPE DATA ](https://github.com/geetoor-maven/learngolang/blob/main/2_tipedata/tipedata.go) |
-| KONSTANTA | [KONSTANTA ](https://github.com/geetoor-maven/learngolang/blob/main/2_tipedata/tipedata.go) |
+| KONSTANTA | [KONSTANTA ](https://github.com/geetoor-maven/learngolang/blob/main/2_tipedata/konstanta.go) |
 
 
 ## Penulis
