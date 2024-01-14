@@ -11,10 +11,11 @@
 
 | Module  | LINK                                                                                              |
 |---------|-----------------------------------------------------------------------------------------------------|
-| VARIABLE    | [VARIABLE ](https://github.com/geetoor-maven/learngolang/blob/main/1_variable/variable.go)    |
-| TIPE DATA | [TIPE DATA ](https://github.com/geetoor-maven/learngolang/blob/main/2_tipedata/tipedata.go) |
-| KONSTANTA | [KONSTANTA ](https://github.com/geetoor-maven/learngolang/blob/main/3_konstanta/konstanta.go) |
-| OPERATOR | [OPERATOR ](https://github.com/geetoor-maven/learngolang/blob/main/4_operator/operator.go) |
+| VARIABLE    | [ VARIABLE ](https://github.com/geetoor-maven/learngolang/blob/main/1_variable/variable.go)    |
+| TIPE DATA | [ TIPE DATA ](https://github.com/geetoor-maven/learngolang/blob/main/2_tipedata/tipedata.go) |
+| KONSTANTA | [ KONSTANTA ](https://github.com/geetoor-maven/learngolang/blob/main/3_konstanta/konstanta.go) |
+| OPERATOR | [ OPERATOR ](https://github.com/geetoor-maven/learngolang/blob/main/4_operator/operator.go) |
+| KONDISI | [ KONDISI ](https://github.com/geetoor-maven/learngolang/blob/main/5_kondisi/kondisi.go) |
 
 
 ## Penulis
