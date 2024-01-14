@@ -18,6 +18,34 @@ func main(){
 	fmt.Println("Angka Negatif :", angkaNegatif);
 
 	
-	
+	/*
+		tipe data numerik decimal digolang ada 2 jenis, float32 dan float 64.
+		jenisnya cuma berada di lebar cakupan nilai yang bisa di tampung.
+		lebih lanjut penjelasannya ada di sini : 
+		https://www.w3schools.com/go/go_float_data_type.php
+	*/
+	var angkaFloat32 float32 = 2.00;
+	var angkaFloat64 float64 = 23.23432;
+	fmt.Println("Angka Float 32 :", angkaFloat32);
+	fmt.Println("Angka Float 64 :", angkaFloat64);
+
+
+
+	/*
+		tipe data boolean, sama halnya di bahasa pemerograman lain. golang juga dapat menyimpan variable dengan nilai benar (true)
+		dan salah (false). BOOLEAN. tipe data ini akan sangat di pakai pada bagian kondisi dan perulangan
+	*/
+	var empty bool = true;
+	fmt.Println("Kosong :", empty);
+
+
+	/*
+		tipe data String, sama dengan di bahasa pemerograman lainnya, golang juga mempunyain tipe data yang dapat menampung karakter ( string ).
+		ciri khas dari tipe data ini ialah, nilainya di apit oleh 2 tanda petik( " " )
+	*/
+	var message string = "ini data string";
+	fmt.Println(message);
+
+
 
 }
