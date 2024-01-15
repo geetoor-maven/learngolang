@@ -97,7 +97,44 @@ func main(){
 	}
 	// secara otomatis case akan masuk ke dalam case yang kedua yang terdapat angka 5 di dalamnya dikarenakan isi dari variable angka adalah 5
 
-	
+	/*
+		SWITCH IF ELSE
+		di bahasa pemerograman golang, switch case dapat di gunakan dengan gaya if - else, keyword if else akan di tulis setelah keyword case.
+		bisa liat contoh di bawah ini.
+	*/
 
+	heigth := 171;
+	// setelah keyword switch, langsung buka kurung kurawal tanpa memanggil variable heigth.
+	switch {
+	case heigth >= 170:
+		fmt.Println("Anda Sangat Tinggi.");
+	case (heigth >= 165 && heigth < 170):
+		fmt.Println("Lumayan Tinggi.")
+	default:
+		{
+			// kode di dalam  default akan di jalankan ketika tidak ada satupun syarat yang memenuhi case yang di atas.
+			fmt.Println("Semangat Berolahraga Guys.")
+			fmt.Println("Sehat Selalu")
+		}
+	}
+
+
+	/*
+		FALLTHROUGH SWITCH
+		agak sedikit berbeda dengan bahasa pemerograman lain, di golang ada yang di namakan fallthrough di dalam switch case.
+		keyword fallthrough ini di gunakan untuk memaksa program di teruskan ke case selanjutnya tanpa menghiraukan kondisi case nya.
+		artinya akan selalu di anggap benar 
+	*/
+	weight := 50;
+	switch{
+	case weight >= 60:
+		fmt.Println("Berat anda 60 ke atas");
+	case (weight > 40) && (weight < 60):
+		fmt.Println("Anda Lumayan Berat");
+		fallthrough
+	case weight <= 40:
+		// kode di dalam case ini akan tetap di jalankan, di karenakan ada keyword fallthrough di dalam case ke 2
+		fmt.Println("Jaga Kesehatan...")
+	}
 
 }
