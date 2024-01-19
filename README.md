@@ -16,6 +16,7 @@
 | KONSTANTA | [ KONSTANTA ](https://github.com/geetoor-maven/learngolang/blob/main/3_konstanta/konstanta.go) |
 | OPERATOR | [ OPERATOR ](https://github.com/geetoor-maven/learngolang/blob/main/4_operator/operator.go) |
 | KONDISI | [ KONDISI ](https://github.com/geetoor-maven/learngolang/blob/main/5_kondisi/kondisi.go) |
+| PERULANGAN | [ PERULANGAN ](https://github.com/geetoor-maven/learngolang/blob/main/6_perulangan/perulangan.go) |
 
 
 ## Penulis
