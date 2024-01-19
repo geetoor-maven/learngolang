@@ -18,7 +18,7 @@
 | KONDISI | [ KONDISI ](https://github.com/geetoor-maven/learngolang/blob/main/5_kondisi/kondisi.go) |
 | PERULANGAN | [ PERULANGAN ](https://github.com/geetoor-maven/learngolang/blob/main/6_perulangan/perulangan.go) |
 
-## Referensi Pembelajaran
+## Referensi TUGAS
 
 | Module  | LINK                                                                                              |
 |---------|-----------------------------------------------------------------------------------------------------|
