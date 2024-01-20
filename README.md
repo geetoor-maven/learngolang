@@ -18,6 +18,7 @@
 | KONDISI | [ KONDISI ](https://github.com/geetoor-maven/learngolang/blob/main/5_kondisi/kondisi.go) |
 | PERULANGAN | [ PERULANGAN ](https://github.com/geetoor-maven/learngolang/blob/main/6_perulangan/perulangan.go) |
 | INPUTAN | [ INPUTAN ](https://github.com/geetoor-maven/learngolang/blob/main/7_inputan/inputan.go) |
+| ARRAY | [ ARRAY ](https://github.com/geetoor-maven/learngolang/blob/main/9_array) |
 
 ## Referensi TUGAS
 
