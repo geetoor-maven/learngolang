@@ -61,5 +61,14 @@ func main(){
 	// seceara otomatis indeks array oddNumbers ada 6, karena data di dalam array oddNumbers ada berupa 6 data.
 	var oddNumbers = [...]int{3,5,6,7,9,11};
 	fmt.Println(oddNumbers);
+
+
+	/*
+		Deklarasi variable array menggunakan function make().
+	*/
+	var names = make([]string, 2)
+	names[0] = "Agus"
+	names[1] = "Kurniawan"
+	fmt.Println(names)
 	
 }
