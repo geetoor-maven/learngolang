@@ -21,6 +21,7 @@
 | 8.ARRAY | [ ARRAY ](https://github.com/geetoor-maven/learngolang/blob/main/9_array) |
 | 9.SLICE | [ SLICE ](https://github.com/geetoor-maven/learngolang/blob/main/10_slice/slice.go) |
 | 10.MAP | [ MAP ](https://github.com/geetoor-maven/learngolang/blob/main/11_map/map.go) |
+| 11.FUNCTION | [ FUNCTION ](https://github.com/geetoor-maven/learngolang/blob/main/13_function/function.go) |
 
 ## Referensi TUGAS
 
