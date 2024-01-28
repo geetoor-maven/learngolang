@@ -19,6 +19,7 @@
 | 6.PERULANGAN | [ PERULANGAN ](https://github.com/geetoor-maven/learngolang/blob/main/6_perulangan/perulangan.go) |
 | 7.INPUTAN | [ INPUTAN ](https://github.com/geetoor-maven/learngolang/blob/main/7_inputan/inputan.go) |
 | 8.ARRAY | [ ARRAY ](https://github.com/geetoor-maven/learngolang/blob/main/9_array) |
+| 9.SLICE | [ SLICE ](https://github.com/geetoor-maven/learngolang/blob/main/10_slice/slice.go) |
 
 ## Referensi TUGAS
 
