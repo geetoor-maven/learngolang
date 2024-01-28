@@ -20,6 +20,7 @@
 | 7.INPUTAN | [ INPUTAN ](https://github.com/geetoor-maven/learngolang/blob/main/7_inputan/inputan.go) |
 | 8.ARRAY | [ ARRAY ](https://github.com/geetoor-maven/learngolang/blob/main/9_array) |
 | 9.SLICE | [ SLICE ](https://github.com/geetoor-maven/learngolang/blob/main/10_slice/slice.go) |
+| 10.MAP | [ MAP ](https://github.com/geetoor-maven/learngolang/blob/main/11_map/map.go) |
 
 ## Referensi TUGAS
 
