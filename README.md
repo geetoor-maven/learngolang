@@ -24,6 +24,7 @@
 | 11.FUNCTION | [ FUNCTION ](https://github.com/geetoor-maven/learngolang/blob/main/13_function/function.go) |
 | 12.FUNCTION PARAMETER | [ FUNCTION PARAMETER](https://github.com/geetoor-maven/learngolang/blob/main/14_functionparam/functionparam.go) |
 | 13.FUNCTION RETURN VALUE | [ FUNCTION RETURN VALUE ](https://github.com/geetoor-maven/learngolang/blob/main/15_funcreturnvalue/funcreturnvalue.go) |
+| 14.RETURN MULTIPLE VALUE | [ RETURN MULTIPLE VALUE ](https://github.com/geetoor-maven/learngolang/blob/main/16_returnmultiple/returnmultiple.go) |
 
 ## Referensi TUGAS
 
