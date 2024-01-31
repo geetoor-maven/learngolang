@@ -22,7 +22,8 @@
 | 9.SLICE | [ SLICE ](https://github.com/geetoor-maven/learngolang/blob/main/10_slice/slice.go) |
 | 10.MAP | [ MAP ](https://github.com/geetoor-maven/learngolang/blob/main/11_map/map.go) |
 | 11.FUNCTION | [ FUNCTION ](https://github.com/geetoor-maven/learngolang/blob/main/13_function/function.go) |
-| 11.FUNCTION PARAMETER | [ FUNCTION PARAMETER](https://github.com/geetoor-maven/learngolang/blob/main/14_functionparam/functionparam.go) |
+| 12.FUNCTION PARAMETER | [ FUNCTION PARAMETER](https://github.com/geetoor-maven/learngolang/blob/main/14_functionparam/functionparam.go) |
+| 13.FUNCTION RETURN VALUE | [ FUNCTION RETURN VALUE ](https://github.com/geetoor-maven/learngolang/blob/main/15_funcreturnvalue/funcreturnvalue.go) |
 
 ## Referensi TUGAS
 
