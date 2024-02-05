@@ -26,7 +26,8 @@
 | 13.FUNCTION RETURN VALUE | [ FUNCTION RETURN VALUE ](https://github.com/geetoor-maven/learngolang/blob/main/15_funcreturnvalue/funcreturnvalue.go) |
 | 14.RETURN MULTIPLE VALUE | [ RETURN MULTIPLE VALUE ](https://github.com/geetoor-maven/learngolang/blob/main/16_returnmultiple/returnmultiple.go) |
 | 15.NAMED RETURN VALUE | [ NAMED RETURN VALUE ](https://github.com/geetoor-maven/learngolang/blob/main/17_namedreturnvalue/namedreturnvalue.go) |
-| 16.VARIADIC | [ VARIADIC ](https://github.com/geetoor-maven/learngolang/blob/main/19_variadic/variadic.go) |
+| 16.VARIADIC FUNCTION | [ VARIADIC FUNCTION ](https://github.com/geetoor-maven/learngolang/blob/main/19_variadic/variadic.go) |
+| 17.FUNCTION VALUE | [ FUNCTION VALUE ](https://github.com/geetoor-maven/learngolang/blob/main/20_funcvalue/funcvalue.go) |
 
 ## Referensi TUGAS
 
