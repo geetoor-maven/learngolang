@@ -7,7 +7,7 @@
     </p>    
 </p>
 
-## Referensi Pembelajaran
+## Daftar Module
 
 | Module  | LINK                                                                                              |
 |---------|-----------------------------------------------------------------------------------------------------|
@@ -28,8 +28,9 @@
 | 15.NAMED RETURN VALUE | [ NAMED RETURN VALUE ](https://github.com/geetoor-maven/learngolang/blob/main/17_namedreturnvalue/namedreturnvalue.go) |
 | 16.VARIADIC FUNCTION | [ VARIADIC FUNCTION ](https://github.com/geetoor-maven/learngolang/blob/main/19_variadic/variadic.go) |
 | 17.FUNCTION VALUE | [ FUNCTION VALUE ](https://github.com/geetoor-maven/learngolang/blob/main/20_funcvalue/funcvalue.go) |
+| 18.FUNCTION AS PARAMETER | [ FUNCTION AS PARAMETER ](https://github.com/geetoor-maven/learngolang/blob/main/21_funcasparam/funcasparam.go) |
 
-## Referensi TUGAS
+## Daftar Tugas
 
 | Module  | LINK                                                                                              |
 |---------|-----------------------------------------------------------------------------------------------------|
