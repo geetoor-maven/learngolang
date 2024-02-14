@@ -31,6 +31,7 @@
 | 18.FUNCTION AS PARAMETER | [ FUNCTION AS PARAMETER ](https://github.com/geetoor-maven/learngolang/blob/main/21_funcasparam/funcasparam.go) |
 | 19.ANONYMOUS FUNCTION | [ ANONYMOUS FUNCTION ](https://github.com/geetoor-maven/learngolang/blob/main/22_anonymfunc/anonymfunc.go) |
 | 20.RECURSIVE FUNCTION | [ RECURSIVE FUNCTION ](https://github.com/geetoor-maven/learngolang/blob/main/23_recursivefunc/recursivefunc.go) |
+| 21.CLOSURE | [ CLOSURE ](https://github.com/geetoor-maven/learngolang/blob/main/24_closure/closure.go) |
 
 ## Daftar Tugas
 
