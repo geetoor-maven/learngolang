@@ -40,6 +40,7 @@
 | TUGAS 1    | [ TUGAS 1 ](https://github.com/geetoor-maven/learngolang/blob/main/8_tugas1/soal/task.go)    |
 | TUGAS 2    | [ TUGAS 2 ](https://github.com/geetoor-maven/learngolang/blob/main/12_tugas2/soal/task.go)    |
 | TUGAS 3    | [ TUGAS 3 ](https://github.com/geetoor-maven/learngolang/blob/main/18_tugas3/soal/task.go)    |
+| TUGAS 4    | [ TUGAS 4 ](https://github.com/geetoor-maven/learngolang/blob/main/25_tugas4/soal/task.go)    |
 
 
 ## Penulis
