@@ -48,6 +48,13 @@ func main(){
 		6 Exit
 
 		
+		silahkan bikin 6 feature tersebut sesuai dengan cara kerja nya .
+		ketika user memasukan angka 6, maka user akan logout dan kembali tampilan awal applikasi :
+
+		1. Masuk Applikasi
+		2. Keluar Applikasi
+		Masukan angka 1/2 :
+
 	*/
 	fmt.Println("Hello World");
 }
