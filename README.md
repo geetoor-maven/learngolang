@@ -33,6 +33,7 @@
 | 20.RECURSIVE FUNCTION | [ RECURSIVE FUNCTION ](https://github.com/geetoor-maven/learngolang/blob/main/23_recursivefunc/recursivefunc.go) |
 | 21.CLOSURE | [ CLOSURE ](https://github.com/geetoor-maven/learngolang/blob/main/24_closure/closure.go) |
 | 22.DEFER | [ DEFER ](https://github.com/geetoor-maven/learngolang/blob/main/26_defer/defer.go) |
+| 23.PANIC | [ PANIC ](https://github.com/geetoor-maven/learngolang/blob/main/27_panic/panic.go) |
 
 ## Daftar Tugas
 
