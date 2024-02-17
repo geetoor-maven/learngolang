@@ -32,6 +32,7 @@
 | 19.ANONYMOUS FUNCTION | [ ANONYMOUS FUNCTION ](https://github.com/geetoor-maven/learngolang/blob/main/22_anonymfunc/anonymfunc.go) |
 | 20.RECURSIVE FUNCTION | [ RECURSIVE FUNCTION ](https://github.com/geetoor-maven/learngolang/blob/main/23_recursivefunc/recursivefunc.go) |
 | 21.CLOSURE | [ CLOSURE ](https://github.com/geetoor-maven/learngolang/blob/main/24_closure/closure.go) |
+| 22.DEFER | [ DEFER ](https://github.com/geetoor-maven/learngolang/blob/main/26_defer/defer.go) |
 
 ## Daftar Tugas
 
