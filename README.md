@@ -37,6 +37,7 @@
 | 24.RECOVER | [ RECOVER ](https://github.com/geetoor-maven/learngolang/blob/main/28_recover/recover.go) |
 | 25.STRUCT | [ STRUCT ](https://github.com/geetoor-maven/learngolang/blob/main/29_struct/struct.go) |
 | 26.STRUCT METHOD | [ STRUCT METHOD ](https://github.com/geetoor-maven/learngolang/blob/main/30_structmethod/structmethod.go) |
+| 27.INTERFACE | [ INTERFACE ](https://github.com/geetoor-maven/learngolang/blob/main/31_interface/interface.go) |
 
 ## Daftar Tugas
 
