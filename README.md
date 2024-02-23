@@ -40,6 +40,7 @@
 | 27.INTERFACE | [ INTERFACE ](https://github.com/geetoor-maven/learngolang/blob/main/31_interface/interface.go) |
 | 28.NIL | [ NIL ](https://github.com/geetoor-maven/learngolang/blob/main/32_nil/nil.go) |
 | 29.ERROR INTERFACE | [ ERROR INTERFACE ](https://github.com/geetoor-maven/learngolang/blob/main/33_errinterface/errinterface.go) |
+| 30.TYPE ASSERTION | [ TYPE ASSERTION ](https://github.com/geetoor-maven/learngolang/blob/main/34_typeassert/typeassert.go) |
 
 ## Daftar Tugas
 
