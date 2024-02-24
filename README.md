@@ -43,6 +43,7 @@
 | 30.TYPE ASSERTION | [ TYPE ASSERTION ](https://github.com/geetoor-maven/learngolang/blob/main/34_typeassert/typeassert.go) |
 | 31.POINTER | [ POINTER ](https://github.com/geetoor-maven/learngolang/blob/main/35_pointer/pointer.go) |
 | 32.POINTER FUNCTION | [ POINTER FUNCTION ](https://github.com/geetoor-maven/learngolang/blob/main/36_pointerfunc/pointerfunc.go) |
+| 33.POINTER METHOD| [ POINTER METHOD ](https://github.com/geetoor-maven/learngolang/blob/main/36_pointermethod/pointermethod.go) |
 
 ## Daftar Tugas
 
