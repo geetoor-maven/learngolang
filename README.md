@@ -42,6 +42,7 @@
 | 29.ERROR INTERFACE | [ ERROR INTERFACE ](https://github.com/geetoor-maven/learngolang/blob/main/33_errinterface/errinterface.go) |
 | 30.TYPE ASSERTION | [ TYPE ASSERTION ](https://github.com/geetoor-maven/learngolang/blob/main/34_typeassert/typeassert.go) |
 | 31.POINTER | [ POINTER ](https://github.com/geetoor-maven/learngolang/blob/main/35_pointer/pointer.go) |
+| 32.POINTER FUNCTION | [ POINTER FUNCTION ](https://github.com/geetoor-maven/learngolang/blob/main/36_pointerfunc/pointerfunc.go) |
 
 ## Daftar Tugas
 
